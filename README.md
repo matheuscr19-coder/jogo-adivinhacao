@@ -20,9 +20,10 @@ Projeto simples onde o jogador tenta adivinhar um número aleatório gerado pelo
 
 ## 🚀 Como usar
 
-1. Clone ou faça download deste repositório  
-2. Abra o arquivo `index.html` no seu navegador  
-3. Tente adivinhar o número secreto!
+1. Baixe ou clone este repositório:
+   ```bash
+   git clone https://matheuscr19-coder.github.io/jogo-adivinhacao/
+   ```
 
 ## 📌 Melhorias futuras (opcional)
 
